@@ -28,3 +28,6 @@ The app is designed with a user-first approach, making it easy to navigate and e
 
 ## 📁 Project Structure
 
+start-together/
+├── app.py # Main application logic
+├── requirements.txt # List of required Python libraries
